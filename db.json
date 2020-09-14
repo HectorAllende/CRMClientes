@@ -1,53 +1,11 @@
 {
   "clientes": [
     {
-      "nombre": "Juan Gonzalez",
-      "email": "juan@gmail.com",
-      "telefono": "03513739857",
-      "empresa": "Claro",
-      "id": 2
-    },
-    {
-      "nombre": "Lucas",
-      "email": "lucas@gmail.com",
-      "telefono": "3513739855",
-      "empresa": "Claro",
-      "id": 4
-    },
-    {
-      "nombre": "Rolando",
-      "email": "rolando@gmail.com",
-      "telefono": "03513739857",
-      "empresa": "Libertad",
-      "id": 5
-    },
-    {
       "nombre": "Héctor",
       "email": "hectorallende@gmail.com",
       "telefono": "03513739857",
       "empresa": "Libertad",
-      "id": 6
-    },
-    {
-      "nombre": "Héctor Pedro",
-      "email": "Pedro@gmail.com",
-      "telefono": "03513739857",
-      "empresa": "Claro",
-      "id": 7
-    },
-    {
-      "nombre": "Bernabe",
-      "email": "bernabe@gmail.com",
-      "telefono": "384908490",
-      "empresa": "action",
-      "id": 9
-    },
-    {
-      "nombre": "Rosa",
-      "email": "rosalopez@gmail.com",
-      "telefono": "3513739393",
-      "empresa": "Museo",
-      "id": 10
+      "id": 1
     }
   ]
 }
